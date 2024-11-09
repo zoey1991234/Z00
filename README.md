@@ -8,3 +8,7 @@
 
 # 儀表板
 ![screencapture-localhost-zms-admin-dashboard-php-2024-11-10-02_51_13](https://github.com/user-attachments/assets/9ffbde97-cdda-425b-afdb-4fe67665431d)
+
+# ER MODEL
+![image](https://github.com/user-attachments/assets/4b92a979-be5a-454e-860b-4e728b0128bc)
+
